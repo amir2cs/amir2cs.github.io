@@ -1,4 +1,4 @@
-setwd("/Users/aamir.khan/Documents")
+
 library(shiny)
 
 # Define UI for app that draws a histogram ----
